@@ -49,6 +49,7 @@ void setup() {
  *
  * @note No parameters or return value. Side effects: performs analogRead()
  * and writes to Serial.
+ *
  */
 void loop() {
 
